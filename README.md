@@ -1,2 +1,2 @@
 # portfolio
-This portfolia about me , my skills ,my hobbies and contact me ..
+This portfoli0 about me , my skills ,my hobbies and contact me ..
