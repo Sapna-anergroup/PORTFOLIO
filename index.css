@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #fbecec;
+    color: #505152;
+}
+
+/* Header styling*/
+header {
+    background-color: #03c0f9;
+    color: rgb(230, 220, 220);
+
+    padding: 1rem;
+    text-align: center;
+}
+
+header nav ul {
+    list-style:none ;
+    display: flex;
+    justify-content: center;
+}
+
+header nav ul li {
+    margin: 0 20px;
+}
+
+header nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+header nav ul li a:hover {
+    text-decoration: underline;
+}
+
+/* Section Styles */
+section {
+    padding: 4rem 2rem;
+    text-align: center;
+    margin: 1.5rem 0;
+}
+
+/* About Me  */
+#about {
+    background-color: #d1b3b3;
+    h2{
+        color: rgba(22, 166, 232, 0.911);
+        font-size: xx-large;
+        font-style: italic;
+
+    }
+    
+}
+
+/* Skills  */
+#skills {
+    background-color: #a9cff5;
+}
+
+#skills ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#skills li {
+    font-size: 1.2rem;
+    margin: 0.5rem 0;
+}
+/*Hobbies */
+#Hobbies{
+    background-color: #d1b3b3;
+}
+
+/* Contact */
+#contact {
+    background-color: #a9cff5;
+}
+
+/* Footer  */
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #333;
+    color: white;
+}
+
+
